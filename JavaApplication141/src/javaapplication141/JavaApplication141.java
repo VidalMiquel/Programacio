@@ -7,6 +7,7 @@ public class JavaApplication141 {
         System.out.println("MEMORIES");
         System.out.println("lol");
         System.out.println("PERRY");
+	int i = 0;
     }
     
 }
